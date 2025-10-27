@@ -1,0 +1,10 @@
+{
+  "evaluation_time": "2025-10-26 14:53:30",
+  "sample_count": 200,
+  "bleu_scores": {
+    "BLEU-1": 79.39,
+    "BLEU-2": 78.38,
+    "BLEU-3": 77.34,
+    "BLEU-4": 76.34
+  }
+}

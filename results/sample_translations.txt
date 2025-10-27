@@ -1,0 +1,800 @@
+SRC:	Thank you so much, Chris.
+PRED:	Vielen Dank, Chris.
+TGT:	Vielen Dank, Chris.
+
+SRC:	And it's truly a great honor to have the opportunity to come to this stage twice; I'm extremely grateful.
+PRED:	Es ist mir wirklich eine Ehre, zweimal auf dieser Bühne stehen zu dürfen. Tausend Dank dafür. Tausend Dank dafür.
+TGT:	Es ist mir wirklich eine Ehre, zweimal auf dieser Bühne stehen zu dürfen. Tausend Dank dafür.
+
+SRC:	I have been blown away by this conference, and I want to thank all of you for the many nice comments about what I had to say the other night.
+PRED:	Ich bin wirklich begeistert von dieser Konferenz, und ich danke Ihnen allen für die vielen netten Kommentare zu meiner Rede vorgestern Abend.
+TGT:	Ich bin wirklich begeistert von dieser Konferenz, und ich danke Ihnen allen für die vielen netten Kommentare zu meiner Rede vorgestern Abend.
+
+SRC:	And I say that sincerely, partly because I need that.
+PRED:	Das meine ich ernst, teilweise deshalb -- weil ich es wirklich brauchen kann!
+TGT:	Das meine ich ernst, teilweise deshalb -- weil ich es wirklich brauchen kann!
+
+SRC:	Put yourselves in my position.
+PRED:	Versetzen Sie sich mal in meine Lage!
+TGT:	Versetzen Sie sich mal in meine Lage!
+
+SRC:	I flew on Air Force Two for eight years.
+PRED:	Ich bin acht Jahre lang für Wettkämp.
+TGT:	Ich bin bin acht Jahre lang mit der Air Force Two geflogen.
+
+SRC:	Now I have to take off my shoes or boots to get on an airplane!
+PRED:	Jetzt muss ich meine Schuhe ausziehen, um überhaupt an Bord zu kommen!
+TGT:	Jetzt muss ich meine Schuhe ausziehen, um überhaupt an Bord zu kommen!
+
+SRC:	I'll tell you one quick story to illustrate what that's been like for me.
+PRED:	Ich erzähle Ihnen mal eine Geschichte, dann verstehen das mal eine Geschichte!
+TGT:	Ich erzähle Ihnen mal eine Geschichte, dann verstehen Sie mich vielleicht besser.
+
+SRC:	It's a true story -- every bit of this is true.
+PRED:	Eine wahre Geschichte -- kein Wort daran ist erfunden.
+TGT:	Eine wahre Geschichte -- kein Wort daran ist erfunden.
+
+SRC:	Soon after Tipper and I left the -- White House -- we were driving from our home in Nashville to a little farm we have 50 miles east of Nashville.
+PRED:	Kurz nachdem Tipper und ich aus dem Weißen Haus ausgezogen waren, fuhren wir von Nashville zu unserer kleinen Farm 50 Meilen östlich von Nashville --
+TGT:	Kurz nachdem Tipper und ich aus dem Weißen Haus ausgezogen waren, fuhren wir von unserem Haus in Nashville zu unserer kleinen Farm 50 Meilen östlich von Nashville --
+
+SRC:	Driving ourselves.
+PRED:	und wir fuhren selbst.
+TGT:	und wir fuhren selbst.
+
+SRC:	I know it sounds like a little thing to you, but -- I looked in the rear-view mirror and all of a sudden it just hit me.
+PRED:	Ich weiß, aber ... Ich weiß, dass Sie ist das nichts Ungewöhnliches, aber ... Ich sah in den Rückspiegel und plötzlich traf mich eine Erkenntnis.
+TGT:	Ich weiß, für Sie ist das nichts Ungewöhnliches, aber ... Ich sah in den Rückspiegel und plötzlich traf mich eine Erkenntnis.
+
+SRC:	There was no motorcade back there.
+PRED:	Hinter mir war gar keine Autokolonne.
+TGT:	Hinter mir war gar keine Autokolonne.
+
+SRC:	You've heard of phantom limb pain?
+PRED:	Haben Sie schon mal vom Phantomschmerz gehört?
+TGT:	Haben Sie schon mal vom Phantomschmerz gehört?
+
+SRC:	This was a rented Ford Taurus.
+PRED:	Wir saßen in einem gemieteten Ford Taurus.
+TGT:	Wir saßen in einem gemieteten Ford Taurus.
+
+SRC:	It was dinnertime, and we started looking for a place to eat.
+PRED:	Es war Zeit zum Abendessen und wir hielten Ausschau nach einem Restaurant.
+TGT:	Es war Zeit zum Abendessen und wir hielten Ausschau nach einem Restaurant.
+
+SRC:	We were on I-40. We got to Exit 238, Lebanon, Tennessee.
+PRED:	Wir waren auf der I-40. Wir kamen zur Ausfahrt 238, Lebanon, Tennessee.
+TGT:	Wir waren auf der I-40. Wir kamen zur Ausfahrt 238, Lebanon, Tennessee.
+
+SRC:	We got off the exit, we found a Shoney's restaurant.
+PRED:	Wir fuhren ab und suchten nach einem ... wir fanden schließlich ein Shoney's.
+TGT:	Wir fuhren ab und suchten nach einem ... wir fanden schließlich ein Shoney's.
+
+SRC:	Low-cost family restaurant chain, for those of you who don't know it.
+PRED:	Für alle, die es nicht kennen: Das ist eine billige Familienrestaurantkette.
+TGT:	Für alle, die es nicht kennen: Das ist eine billige Familienrestaurantkette.
+
+SRC:	We went in and sat down at the booth, and the waitress came over, made a big commotion over Tipper. She took our order, and then went to the couple in the booth next to us, and she lowered her voice so much, I had to really strain to hear what she was saying.
+PRED:	Wir gingen rein und setzten uns in eine Nische neben uns und machte viel Aufhebens um Tipper. Sie nahm unsere Bestellung auf, ging dann zum Paar in der Nische neben uns und senkte ihre Stimme so viel Zeit.
+TGT:	Wir gingen rein und setzten uns in eine Nische. Die Kellnerin kam zu uns und machte viel Aufhebens um Tipper. Sie nahm unsere Bestellung auf, ging dann zum Paar in der Nische neben uns und senkte ihre Stimme so sehr, dass ich mich richtig anstrengen musste, um sie zu verstehen.
+
+SRC:	And she said "Yes, that's former Vice President Al Gore and his wife, Tipper."
+PRED:	Sie sagte: "Ja, das ist Ex-Vizepräsident Al Gore und seine Frau Tipper."
+TGT:	Sie sagte: "Ja, das ist Ex-Vizepräsident Al Gore und seine Frau Tipper."
+
+SRC:	And the man said, "He's come down a long way, hasn't he?"
+PRED:	Und der Mann antwortete: "Ganz schöner Abstieg, was?"
+TGT:	Und der Mann antwortete: "Ganz schöner Abstieg, was?"
+
+SRC:	There's been kind of a series of epiphanies.
+PRED:	Es gab eine ganze Reihe solcher Offenbarungen.
+TGT:	Es gab eine ganze Reihe solcher Offenbarungen.
+
+SRC:	The very next day, continuing the totally true story, I got on a G-V to fly to Africa to make a speech in Nigeria, in the city of Lagos, on the topic of energy.
+PRED:	Am nächsten Tag -- flog ich in einer G5 nach Afrika, in Nigeria eine Rede zu halten, in Nigeria eine Rede zu halten, in Nigeria eine Rede zu halten, in Nigeria eine Rede zu halten, in Nigeria eine Rede zu halten, in Nigeria eine Rede zu halten, in Nigeria eine Rede zu halten, in Nigeria eine Rede zu halten, in Nigeria eine Rede zu halten, in Nigeria eine
+TGT:	Am nächsten Tag -- immer noch eine wahre Geschichte! -- flog ich in einer G5 nach Afrika, um in Nigeria eine Rede zu halten, in Lagos, und zwar über das Thema Energie.
+
+SRC:	And I began the speech by telling them the story of what had just happened the day before in Nashville.
+PRED:	Und ich nur 12 Jahre, was mir am Vortag in Nashville passiert war.
+TGT:	Zu Beginn der Rede erzählte ich, was mir am Vortag in Nashville passiert war.
+
+SRC:	And I told it pretty much the same way I've just shared it with you: Tipper and I were driving ourselves, Shoney's, low-cost family restaurant chain, what the man said -- they laughed.
+PRED:	Genau das Ihnen gerade erzählt: Ja, was ich die wichtigste sollten, Shoney's vermasselt, Shoney's vermasselt, Shoney's vermasselt. Sie nur der Mann, Shoney's, Shoney's vermasselt, Shoney's vermasselt, Shoney's. Sie nur das genau das genau das genau das genau das genau das genau das genau das genau das genau das genau das genau das genau das
+TGT:	Ich erzählte es genau so, wie ich es Ihnen gerade erzählt habe. Tipper und ich fuhren selbst, Shoney's, billige Familienrestaurantkette, was der Mann gesagt hatte -- alle lachten.
+
+SRC:	I gave my speech, then went back out to the airport to fly back home.
+PRED:	Ich hielt meine Rede, dann fuhr ich zurück zum Flughafen, um nach Hause zu fliegen.
+TGT:	Ich hielt meine Rede, dann fuhr ich zurück zum Flughafen, um nach Hause zu fliegen.
+
+SRC:	I fell asleep on the plane until, during the middle of the night, we landed on the Azores Islands for refueling.
+PRED:	Im Flugzeug schlief, bis wir mitten in der Nacht auf den Azoren landeten, um zu tanken. Wenn wir mitten in der Nacht auf den Azoren landeten, um zu tanken.
+TGT:	Im Flugzeug schlief ich, bis wir mitten in der Nacht auf den Azoren landeten, um zu tanken.
+
+SRC:	I woke up, they opened the door, I went out to get some fresh air, and I looked, and there was a man running across the runway.
+PRED:	Ich wachte auf, öffnete die Tür und ging hinaus, um frische Luft zu schnappen. Da sah ich plötzlich einen Mann über das Rollfeld rennen.
+TGT:	Ich wachte auf, öffnete die Tür und ging hinaus, um frische Luft zu schnappen. Da sah ich plötzlich einen Mann über das Rollfeld rennen.
+
+SRC:	And he was waving a piece of paper, and he was yelling, "Call Washington! Call Washington!"
+PRED:	Er wedelte mit einem Stück Papier und schrie: "Rufen Sie Washington an! Rufen Sie Washington an! Rufen Sie Washington an! Rufen Sie Washington an! Rufen Sie Washington an! Rufen Sie Washington an! Rufen Sie Washington an! Rufen Sie Washington an! Rufen Sie Washington an! Rufen Sie Washington an! Rufen Sie Washington an! Rufen Sie Washington an! Rufen an! Rufen an! Rufen an!
+TGT:	Er wedelte mit einem Stück Papier und schrie: "Rufen Sie Washington an! Rufen Sie Washington an!"
+
+SRC:	And I thought to myself, in the middle of the night, in the middle of the Atlantic, what in the world could be wrong in Washington?
+PRED:	Ich dachte so: Mitten in der Nacht, was in der Nacht auf der Nacht, mitten im Atlantik, was in Washington schief laufen?
+TGT:	Ich dachte so: Mitten in der Nacht, mitten im Atlantik, was in der Welt könnte in Washington schief laufen?
+
+SRC:	Then I remembered it could be a bunch of things.
+PRED:	Dann fiel mir ein, dass da so einiges in Frage kam.
+TGT:	Dann fiel mir ein, dass da so einiges in Frage kam.
+
+SRC:	was that my staff was extremely upset because one of the wire services in Nigeria had already written a story about my speech, and it had already been printed in cities all across the United States of America.
+PRED:	Aber mein Mitarbeiter war wegem Folgenden so aufgeregt: Eine der nigerianischen Nachrichtenagenturen hatte schon eine Story über meine Rede herausgegeben. Und die war schon eine Story über meine Rede herausgegeben. Und die war schon eine Story über meine Rede herausgegeben. Und die war schon in Städten überall in den USA gedruckt worden --
+TGT:	Aber mein Mitarbeiter war wegem Folgenden so aufgeregt: Eine der nigerianischen Nachrichtenagenturen hatte schon eine Story über meine Rede herausgegeben. Und die war schon in Städten überall in den USA gedruckt worden --
+
+SRC:	It was printed in Monterey, I checked.
+PRED:	auch in Monterey, das habe ich überprüft.
+TGT:	auch in Monterey, das habe ich überprüft.
+
+SRC:	And the story began, "Former Vice President Al Gore announced in Nigeria yesterday," quote: 'My wife Tipper and I have opened a low-cost family restaurant'" -- "'named Shoney's, and we are running it ourselves.'" Before I could get back to U.S. soil, David Letterman and Jay Leno had already started in on -- one of them had me in a big white chef's hat, Tipper was saying, "One more burger with fries!"
+PRED:	Und die Geschichte begann mit: "Ex-Vizepräsident Al Gore gab gestern in Nigeria bekannt: "Noch und Jay Leno schon mal geflogen – ich haben ein billiges Familienrestaurant namens Shoney's eröffnet und Jay Leno schon Witze über mich -- einer großen weißen Kochmütze und Jay Leno schon Witze über mich -- einer von ihnen zeigte mich -- einer von ihnen zeigte mich -- einer von ihnen zeigte mich -- einer von
+TGT:	Und die Geschichte begann mit: "Ex-Vizepräsident Al Gore gab gestern in Nigeria bekannt: 'Meine Frau Tipper und ich haben ein billiges Familienrestaurant namens Shoney's eröffnet und wir führen es selbst.'" Bevor ich wieder amerikanischen Boden betrat, machten David Letterman und Jay Leno schon Witze über mich -- einer von ihnen zeigte mich mit einer großen weißen Kochmütze und Tipper sagte: "Noch einen Burger mit Pommes!"
+
+SRC:	Three days later, I got a nice, long, handwritten letter from my friend and partner and colleague Bill Clinton, saying, "Congratulations on the new restaurant, Al!"
+PRED:	Drei Tage später bekam ich einen netten, langen, Partner und Kollegen Bill Clinton, in dem er schrieb: "Glückwunsch zum neuen Restaurant, in meinem Freund, in meinem Freund, in meinem Freund, in meinem Freund, in meinem Freund, in meinem Freund, in meinem Freund, in meinem Freund, in meinem Freund, in meinem Freund, in meinem Freund, in meinem Freund, in meinem Freund
+TGT:	Drei Tage später bekam ich einen netten, langen, handgeschriebenen Brief von meinem Freund, Partner und Kollegen Bill Clinton, in dem er schrieb: "Glückwunsch zum neuen Restaurant, Al!"
+
+SRC:	We like to celebrate each other's successes in life.
+PRED:	Wir freuen uns immer, wenn der andere Erfolg im Leben hat.
+TGT:	Wir freuen uns immer, wenn der andere Erfolg im Leben hat.
+
+SRC:	I was going to talk about information ecology.
+PRED:	Ich wollte eigentlich über Informationsökologie sprechen.
+TGT:	Ich wollte eigentlich über Informationsökologie sprechen.
+
+SRC:	But I was thinking that, since I plan to make a lifelong habit of coming back to TED, that maybe I could talk about that another time.
+PRED:	Aber ich dachte, da ich ohnehin noch sehr oft zu TED zurückkommen will, da ich ohnehin noch sehr oft zu TED zurückkommen will, da ich ohnehin noch sehr oft zu TED zurückkommen will, da ich das seine Ernährungizin, da ich ohnehin noch sehr oft zu TED zurückkommen will, da ich mir egal.
+TGT:	Aber ich dachte, da ich ohnehin noch sehr oft zu TED zurückkommen will, könnte ich das vielleicht auf ein anderes Mal verschieben.
+
+SRC:	Chris Anderson: It's a deal!
+PRED:	Chris Anderson: Abgemacht!
+TGT:	Chris Anderson: Abgemacht!
+
+SRC:	Al Gore: I want to focus on what many of you have said you would like me to elaborate on: What can you do about the climate crisis?
+PRED:	Was mich in Afrika, aber wenn Sie einen Finger bleiben, was mir hören wollen, wenn Sie doch bitte?
+TGT:	Ich möchte mich auf das konzentrieren, was viele von Ihnen von mir hören wollen. Was kann jeder Einzelne gegen die Klimakrise tun?
+
+SRC:	I want to start with a couple of -- I'm going to show some new images, and I'm going to recapitulate just four or five.
+PRED:	Ich möchte beginnen mit ... Ich werde einige neue Bilder zeigen und nur vier oder fünf noch mal durchgehen.
+TGT:	Ich möchte beginnen mit ... Ich werde einige neue Bilder zeigen und nur vier oder fünf noch mal durchgehen.
+
+SRC:	Now, the slide show. I update the slide show every time I give it.
+PRED:	Ein Wort zur Diashow. Ich aktualisiere sie jedes Mal, bevor ich sie jedes Mal,
+TGT:	Ein Wort zur Diashow. Ich aktualisiere sie jedes Mal, bevor ich sie zeige.
+
+SRC:	I add new images, because I learn more about it every time I give it. It's like beach-combing, you know?
+PRED:	Ich füge neue Bilder hinzu, weil ich jedes Mal wieder etwas dazulerne. Wie beim Strandgutsammeln -- jedes Mal, wenn die Flut da war, wenn die Flut da war, wenn die Flut da war, wenn die Flut da war, wenn die Flut da war, wenn die Flut da war, wenn die Flut da einen Flughafen, wenn die Flut da war, wenn die Flut da war
+TGT:	Ich füge neue Bilder hinzu, weil ich jedes Mal wieder etwas dazulerne. Wie beim Strandgutsammeln -- jedes Mal, wenn die Flut da war,
+
+SRC:	Every time the tide comes in and out, you find some more shells.
+PRED:	findet man neue Muschelschalen.
+TGT:	findet man neue Muschelschalen.
+
+SRC:	Just in the last two days, we got the new temperature records in January.
+PRED:	Erst in den letzten beiden Tagen hatten wir neue Januar-Temperaturrekorde.
+TGT:	Erst in den letzten beiden Tagen hatten wir neue Januar-Temperaturrekorde.
+
+SRC:	This is just for the United States of America.
+PRED:	Das gilt jetzt nur für die USA.
+TGT:	Das gilt jetzt nur für die USA.
+
+SRC:	Historical average for Januarys is 31 degrees; last month was 39.5 degrees.
+PRED:	Der historische Durchschnitt für Januar liegt bei minus 0,6 Grad.
+TGT:	Der historische Durchschnitt für Januar liegt bei minus 0,6 Grad. Im letzten Monat waren es plus 4,2 Grad.
+
+SRC:	Now, I know that you wanted some more bad news about the environment -- I'm kidding.
+PRED:	Ich weiß ja, dass Sie auf weitere schlechte Umweltnachrichten warten -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich mache nur Spaß -- Ich
+TGT:	Ich weiß ja, dass Sie auf weitere schlechte Umweltnachrichten warten -- Ich mache nur Spaß --
+
+SRC:	But these are the recapitulation slides, and then I'm going to go into new material about what you can do.
+PRED:	aber jetzt kommt erst mal eine kurze Wiederholung und dann zeige ich Ihnen neues Material über mögliche Lösungen.
+TGT:	aber jetzt kommt erst mal eine kurze Wiederholung und dann zeige ich Ihnen neues Material über mögliche Lösungen.
+
+SRC:	But I wanted to elaborate on a couple of these.
+PRED:	Aber erst wollte ich zu einigen Dias noch etwas sagen.
+TGT:	Aber erst wollte ich zu einigen Dias noch etwas sagen.
+
+SRC:	First of all, this is where we're projected to go with the U.S. contribution to global warming, under business as usual.
+PRED:	Zunächst steuern wir hier mit dem US-Beitrag zur Erderwärmung hin, wenn nichts unternommen wird.
+TGT:	Zunächst steuern wir hier mit dem US-Beitrag zur Erderwärmung hin, wenn nichts unternommen wird.
+
+SRC:	Efficiency in end-use electricity and end-use of all energy is the low-hanging fruit.
+PRED:	Endverbraucher-Effizienz bei Strom und anderen Energien, das sind die niedrig hängenden Trauben.
+TGT:	Endverbraucher-Effizienz bei Strom und anderen Energien, das sind die niedrig hängenden Trauben.
+
+SRC:	Efficiency and conservation -- it's not a cost; it's a profit.
+PRED:	Effizienz und Umweltschutz: Das ist kein Kostenfaktor.
+TGT:	Effizienz und Umweltschutz: Das ist kein Kostenfaktor, sondern ein Gewinnfaktor.
+
+SRC:	The sign is wrong.
+PRED:	Das Vorzeichen ist falsch.
+TGT:	Das Vorzeichen ist falsch.
+
+SRC:	It's not negative; it's positive.
+PRED:	Es ist nicht negativ, sondern positiv.
+TGT:	Es ist nicht negativ, sondern positiv.
+
+SRC:	These are investments that pay for themselves.
+PRED:	Diese Investitionen amortisieren sich von selbst.
+TGT:	Diese Investitionen amortisieren sich von selbst.
+
+SRC:	But they are also very effective in deflecting our path.
+PRED:	Aber sie lenken uns auch sehr effektiv vom richtigen Weg ab.
+TGT:	Aber sie lenken uns auch sehr effektiv vom richtigen Weg ab.
+
+SRC:	Cars and trucks -- I talked about that in the slideshow, but I want you to put it in perspective.
+PRED:	Autos und LKW -- darüber habe ich in der Diashow schon gesprochen, aber ich möchte, dass Sie es im rechten Licht betrachten.
+TGT:	Autos und LKW -- darüber habe ich in der Diashow schon gesprochen, aber ich möchte, dass Sie es im rechten Licht betrachten.
+
+SRC:	It's an easy, visible target of concern -- and it should be -- but there is more global warming pollution that comes from buildings than from cars and trucks.
+PRED:	Das ist ein einfacher, sichtbarer Kritikpunkt, sichtbarer Kritikpunkt, sichtbarer Kritikpunkt, sicht wir alle bekannt: oben das hier, aber Gebäude haben einen größeren Anteil in der Erderwärmung als Autos und LKW.
+TGT:	Das ist ein einfacher, sichtbarer Kritikpunkt, und so sollte es auch sein, aber Gebäude haben einen größeren Anteil an der Erderwärmung als Autos und LKW.
+
+SRC:	Cars and trucks are very significant, and we have the lowest standards in the world.
+PRED:	Autos und LKW sind sehr wichtig,
+TGT:	Autos und LKW sind sehr wichtig, und wir haben die weltweit niedrigsten Normen,
+
+SRC:	And so we should address that. But it's part of the puzzle.
+PRED:	daher sollten wir das Thema anpacken. Aber es ist nur ein Teil des Ganzen. Aber es ist nur ein Teil des Ganzen.
+TGT:	daher sollten wir das Thema anpacken. Aber es ist nur ein Teil des Ganzen.
+
+SRC:	Other transportation efficiency is as important as cars and trucks.
+PRED:	Die Effizienz anderer Transportmittel ist ebenso wichtig wie bei Autos und LKW!
+TGT:	Die Effizienz anderer Transportmittel ist ebenso wichtig wie bei Autos und LKW!
+
+SRC:	Renewables at the current levels of technological efficiency can make this much difference.
+PRED:	Erneuerbare Energien können bei der derzeitigen Technologieeffizienz
+TGT:	Erneuerbare Energien können bei der derzeitigen Technologieeffizienz
+
+SRC:	And with what Vinod, and John Doerr and others, many of you here -- there are a lot of people directly involved in this -- this wedge is going to grow much more rapidly than the current projection shows it.
+PRED:	einiges ausmachen, und nach den Aussagen von Ihnen -- hier sind viele Menschen direkt beteiligt -- wird dieser Keil viel schneller wachsen, als die aktuelle Projektion zeigt. Die CO2-Sequestrierung -- wird dieser Keil viel schneller wachsen, John Doerr und anderen, John Doerr und anderen, John Doerr und anderen, John Doerr und anderen, John Doerr und anderen, John Doerr und anderen, John Doerr und nach den
+TGT:	einiges ausmachen, und nach den Aussagen von Vinod, John Doerr und anderen, vielen von Ihnen -- hier sind viele Menschen direkt beteiligt -- wird dieser Keil viel schneller wachsen, als die aktuelle Projektion zeigt. Die CO2-Sequestrierung -- abgekürzt CCS --
+
+SRC:	Carbon Capture and Sequestration -- that's what CCS stands for -- is likely to become the killer app that will enable us to continue to use fossil fuels in a way that is safe.
+PRED:	wird sich wahrscheinlich zum ultimativen Werkzeug entwickeln, mit dem wir fossile Brennstoffe auf sichere Weise weiterhin nutzen können.
+TGT:	wird sich wahrscheinlich zum ultimativen Werkzeug entwickeln, mit dem wir fossile Brennstoffe auf sichere Weise weiterhin nutzen können.
+
+SRC:	Not quite there yet.
+PRED:	Da sind wir noch nicht ganz.
+TGT:	Da sind wir noch nicht ganz.
+
+SRC:	OK. Now, what can you do?
+PRED:	Was kann nun der Einzelne tun?
+TGT:	Was kann nun der Einzelne tun?
+
+SRC:	Reduce emissions in your home.
+PRED:	Emissionen im eigenen Haus reduzieren.
+TGT:	Emissionen im eigenen Haus reduzieren.
+
+SRC:	Most of these expenditures are also profitable.
+PRED:	Die meisten dieser Ausgaben sparen langfristig auch Geld.
+TGT:	Die meisten dieser Ausgaben sparen langfristig auch Geld.
+
+SRC:	Insulation, better design. Buy green electricity where you can.
+PRED:	Isolierung, besseres Baudesign, kaufen Sie möglichst umweltfreundlichen Strom.
+TGT:	Isolierung, besseres Baudesign, kaufen Sie möglichst umweltfreundlichen Strom.
+
+SRC:	I mentioned automobiles -- buy a hybrid.
+PRED:	Ich sprach von Autos -- kaufen Sie eins mit Hybridantrieb.
+TGT:	Ich sprach von Autos -- kaufen Sie eins mit Hybridantrieb.
+
+SRC:	Use light rail.
+PRED:	Nutzen Sie den öffentlichen Verkehr.
+TGT:	Nutzen Sie den öffentlichen Verkehr.
+
+SRC:	Figure out some of the other options that are much better. It's important.
+PRED:	Sehen Sie sich nach anderen, besseren Lösungen um. Das ist wichtig. Das ist wichtig.
+TGT:	Sehen Sie sich nach anderen, besseren Lösungen um. Das ist wichtig.
+
+SRC:	Be a green consumer.
+PRED:	Kaufen Sie "grün".
+TGT:	Kaufen Sie "grün".
+
+SRC:	You have choices with everything you buy, between things that have a harsh effect, or a much less harsh effect on the global climate crisis.
+PRED:	Bei allem, was Sie einkaufen, haben Sie die Wahl zwischen Produkten mit ungünstigen Auswirkungen auf die Wahl zwischen Produkten mit ungünstigen und deutlich weniger ungünstigen Auswirkungen auf die Wahl zwischen Produkten.
+TGT:	Bei allem, was Sie einkaufen, haben Sie die Wahl zwischen Produkten mit ungünstigen und deutlich weniger ungünstigen Auswirkungen auf die globale Klimakrise.
+
+SRC:	Make a decision to live a carbon-neutral life.
+PRED:	Entscheiden Sie sich für ein CO2-neutrales Leben.
+TGT:	Entscheiden Sie sich für ein CO2-neutrales Leben.
+
+SRC:	Those of you who are good at branding, I'd love to get your advice and help on how to say this in a way that connects with the most people.
+PRED:	Diejenigen von Ihnen, die sich mit Slogans auskennen, und Hilfe, wie man eine ganze Weile,1⁄4 damit junge Leute kommen mit Slogans auskennen, und Hilfe, dass es das so formulieren kann, dass es bei der Masse ankommt.
+TGT:	Diejenigen von Ihnen, die sich mit Slogans auskennen, wäre ich sehr dankbar für Tipps und Hilfe, wie man das so formulieren kann, dass es bei der Masse ankommt.
+
+SRC:	It is easier than you think. It really is.
+PRED:	Es ist einfacher, als Sie glauben. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich. Wirklich
+TGT:	Es ist einfacher, als Sie glauben. Wirklich.
+
+SRC:	A lot of us in here have made that decision, and it is really pretty easy.
+PRED:	Viele von uns hier haben uns hier haben uns hier haben uns hier haben uns ebenfalls überrascht.
+TGT:	Viele von uns hier haben diese Entscheidung getroffen, und es ist wirklich nicht schwer.
+
+SRC:	It means reduce your carbon dioxide emissions with the full range of choices that you make, and then purchase or acquire offsets for the remainder that you have not completely reduced.
+PRED:	Reduzieren Sie Ihre CO2-Emissionen durch jede Wahl, die Sie treffen können, und kaufen oder erwerben Sie nicht vermeiden können.
+TGT:	Reduzieren Sie Ihre CO2-Emissionen durch jede Wahl, die Sie treffen können, und kaufen oder erwerben Sie einen Ausgleich für den Rest, den Sie nicht vermeiden können.
+
+SRC:	And what it means is elaborated at climatecrisis.net.
+PRED:	Genauer wird das auf climatecrisis.net erklärt.
+TGT:	Genauer wird das auf climatecrisis.net erklärt.
+
+SRC:	There is a carbon calculator.
+PRED:	Da gibt es einen CO2-Rechner.
+TGT:	Da gibt es einen CO2-Rechner.
+
+SRC:	Participant Productions convened -- with my active involvement -- the leading software writers in the world, on this arcane science of carbon calculation, to construct a consumer-friendly carbon calculator.
+PRED:	Participant Productions hat unter meiner aktiven Teilnahme die führenden Programmierer der CO2-Berechnung einen anwenderfreundlichen CO2-Berechnung einen anwenderfreundlichen CO2-Berechnung einen anwenderfreundlichen CO2-Berechnung einen anwenderfreundlichen CO2-Berechnung einen anwenderfreundlichen CO2-Berechnung einen anwenderfreundlichen CO2-Berechnung einen anwenderfreundlichen CO2-Berechnung einen anwenderfreundlichen
+TGT:	Participant Productions hat unter meiner aktiven Teilnahme die führenden Programmierer der Welt zusammengerufen, um aus dieser geheimnisvollen Kunst der CO2-Berechnung einen anwenderfreundlichen CO2-Rechner zu basteln.
+
+SRC:	You can very precisely calculate what your CO2 emissions are, and then you will be given options to reduce.
+PRED:	Sie können sehr genau Ihre persönlichen CO2-Emissionen berechnen und erfahren dann Möglichkeiten, sie zu reduzieren.
+TGT:	Sie können sehr genau Ihre persönlichen CO2-Emissionen berechnen und erfahren dann Möglichkeiten, sie zu reduzieren.
+
+SRC:	And by the time the movie comes out in May, this will be updated to 2.0, and we will have click-through purchases of offsets.
+PRED:	Bis zum Fillmstart im Mai wird es ein Update auf Version 2.0 geben, von Ausgleichseinheiten durchklicken kann.
+TGT:	Bis zum Fillmstart im Mai wird es ein Update auf Version 2.0 geben, in der man sich dann direkt zum Kauf von Ausgleichseinheiten durchklicken kann.
+
+SRC:	Next, consider making your business carbon-neutral.
+PRED:	Versuchen Sie, Ihr Unternehmen CO2-neutral zu führen.
+TGT:	Versuchen Sie, Ihr Unternehmen CO2-neutral zu führen.
+
+SRC:	Again, some of us have done that, and it's not as hard as you think.
+PRED:	Auch das haben einige hier schon getan, und es ist leichter, als man denkt.
+TGT:	Auch das haben einige hier schon getan, und es ist leichter, als man denkt.
+
+SRC:	Integrate climate solutions into all of your innovations, whether you are from the technology, or entertainment, or design and architecture community.
+PRED:	Beziehen Sie Klimalösungen in Ihre Innovationen junger, ob Sie Klimalösungen in Ihre Innovationen junger oder Bauwesen und Architektur arbeiten.
+TGT:	Beziehen Sie Klimalösungen in Ihre Innovationen mit ein, egal, ob Sie im Bereich Technologie, Unterhaltung oder Bauwesen und Architektur arbeiten.
+
+SRC:	Invest sustainably. Majora mentioned this.
+PRED:	Investieren Sie nachhaltig. Davon hat Majora schon gesprochen.
+TGT:	Investieren Sie nachhaltig. Davon hat Majora schon gesprochen.
+
+SRC:	Listen, if you have invested money with managers who you compensate on the basis of their annual performance, don't ever again complain about quarterly report CEO management.
+PRED:	Wenn Sie auf der Grundlage ihrer Jahresleistung entlohnen, die Grundlage ihrer Jahresleistung entlohnen, die Sie auf die Sie auf die Grundlage ihrer Jahresleistung entlohnen, die Sie auf die Sie auf die Sie auf die Grundlage ihrer Jahresleistung entlohnen, dann beklagen Sie auf die Sie auf die Sie auf die Sie auf die Grundlage ihrer Jahresleistung können.
+TGT:	Wenn Sie Geld in Manager investieren, die Sie auf der Grundlage ihrer Jahresleistung entlohnen, dann beklagen Sie sich nie wieder über kurzfristiges Management.
+
+SRC:	Over time, people do what you pay them to do.
+PRED:	Langfristig tun die Leute, wofür man sie bezahlt.
+TGT:	Langfristig tun die Leute, wofür man sie bezahlt.
+
+SRC:	And if they judge how much they're going to get paid on your capital that they've invested, based on the short-term returns, you're going to get short-term decisions.
+PRED:	Wenn man nur schlimmer, wie viel sie kurzfristigen Gewinnen beurteilen, wie viel sie kurzfristigen Gewinnen beurteilen, wie viel sie kurzfristigen Gewinnen beurteilen, wie viel sie kurzfristigen Gewinnen beurteilen, wie viel sie kurzfristigen Gewinnen beurteilen, wie viel sie kurzfristigen Gewinnen beurteilen, wie viel sie kurzfristigen Gewinnen beurteilen, dann treffen sie kurzfristigen Gewinnen beurteilen, wie
+TGT:	Und wenn sie aufgrund von kurzfristigen Gewinnen beurteilen, wie viel sie aus Ihrem investierten Kapital herausholen können, dann treffen sie kurzfristige Entscheidungen.
+
+SRC:	A lot more to be said about that.
+PRED:	Darüber lässt sich noch so einiges sagen.
+TGT:	Darüber lässt sich noch so einiges sagen.
+
+SRC:	Become a catalyst of change.
+PRED:	Werden Sie ein Katalysator für den Wandel.
+TGT:	Werden Sie ein Katalysator für den Wandel.
+
+SRC:	Teach others, learn about it, talk about it.
+PRED:	Lehren Sie andere, reden Sie darüber.
+TGT:	Lehren Sie andere, lernen Sie, reden Sie darüber.
+
+SRC:	The movie is a movie version of the slideshow I gave two nights ago, except it's a lot more entertaining.
+PRED:	Der Film ist eine Filmversion der Diashow, nur viel unterhaltsamer.
+TGT:	Der Film ist eine Filmversion der Diashow, die ich vorgestern gezeigt habe, nur viel unterhaltsamer.
+
+SRC:	And it comes out in May.
+PRED:	Und er kommt im Mai heraus.
+TGT:	Und er kommt im Mai heraus.
+
+SRC:	Many of you here have the opportunity to ensure that a lot of people see it.
+PRED:	Viele von Ihnen hier können dafür sorgen, dass eine Menge Leute ihn sehen.
+TGT:	Viele von Ihnen hier können dafür sorgen, dass eine Menge Leute ihn sehen.
+
+SRC:	Consider sending somebody to Nashville. Pick well.
+PRED:	Schicken Sie jemanden nach Nashville. Suchen Sie ihn sorgfältig aus.
+TGT:	Schicken Sie jemanden nach Nashville. Suchen Sie ihn sorgfältig aus.
+
+SRC:	And I am personally going to train people to give this slideshow -- re-purposed, with some of the personal stories obviously replaced with a generic approach, and it's not just the slides, it's what they mean.
+PRED:	Ich werde persönlich Menschen schulen, die persönlichen Geschichten werden natürlich durch etwas Allgemeineres ersetzt, die persönlichen Geschichten werden natürlich durch etwas Allgemeineres ersetzt, die persönlichen Geschichten werden natürlich durch etwas Allgemeineres ersetzt, die persönlichen Geschichten sind kein Einkommen.
+TGT:	Ich werde persönlich Menschen schulen, diese Diashow zu zeigen, abgewandelt, die persönlichen Geschichten werden natürlich durch etwas Allgemeineres ersetzt, Es geht nicht nur um die Dias, sondern um ihre Bedeutung, ihren Zusammenhang.
+
+SRC:	And it's how they link together.
+PRED:	Daher werde ich in diesem Sommer
+TGT:	Daher werde ich in diesem Sommer
+
+SRC:	And so I'm going to be conducting a course this summer for a group of people that are nominated by different folks to come and then give it en masse, in communities all across the country, and we're going to update the slideshow for all of them every single week, to keep it right on the cutting edge.
+PRED:	Und dann jemanden zu verstehen, und so, sich wie wir sie wieder getrennt.
+TGT:	einen Kurs für eine Gruppe von Menschen abhalten, die von verschiedenen Leuten dafür nominiert werden, diesen Vortrag massenweise in Gemeinden im ganzen Land zu halten, und wir werden die Diashow für alle jede Woche aktualisieren, damit sie immer topaktuell ist.
+
+SRC:	Working with Larry Lessig, it will be, somewhere in that process, posted with tools and limited-use copyrights, so that young people can remix it and do it in their own way.
+PRED:	In Zusammenarbeit mit Larry Lessig wird sie demnächst auch mit Tools und eingeschränkten Nutzungsrechten veröffentlicht werden, damit junge Leute eigene Remixe herstellen und sie auf ihre Art präsentieren können.
+TGT:	In Zusammenarbeit mit Larry Lessig wird sie demnächst auch mit Tools und eingeschränkten Nutzungsrechten veröffentlicht werden, damit junge Leute eigene Remixe herstellen und sie auf ihre Art präsentieren können.
+
+SRC:	Where did anybody get the idea that you ought to stay arm's length from politics?
+PRED:	Woher stammt nur die Empfehlung, von Politik sollte man sich fernhalten?
+TGT:	Woher stammt nur die Empfehlung, von Politik sollte man sich fernhalten?
+
+SRC:	It doesn't mean that if you're a Republican, that I'm trying to convince you to be a Democrat.
+PRED:	Das bedeutet nicht, dass ich versuchen will, aus Republikanern Demokraten zu machen.
+TGT:	Das bedeutet nicht, dass ich versuchen will, aus Republikanern Demokraten zu machen.
+
+SRC:	We need Republicans as well.
+PRED:	Wir brauchen auch Republikaner.
+TGT:	Wir brauchen auch Republikaner.
+
+SRC:	This used to be a bipartisan issue, and I know that in this group it really is.
+PRED:	Das war früher ein parteiübergreifendes Thema, und in dieser Gruppe ist es das ebenfalls.
+TGT:	Das war früher ein parteiübergreifendes Thema, und in dieser Gruppe ist es das ebenfalls.
+
+SRC:	Become politically active.
+PRED:	Werden Sie politisch aktiv!
+TGT:	Werden Sie politisch aktiv!
+
+SRC:	Make our democracy work the way it's supposed to work.
+PRED:	Sorgen Sie dafür, wie man sagen, die in denoch akzeptieren.
+TGT:	Sorgen Sie dafür, dass unsere Demokratie so funktioniert, wie sie sollte.
+
+SRC:	Support the idea of capping carbon dioxide emissions -- global warming pollution -- and trading it.
+PRED:	Unterstützen Sie die Beschränkung von CO2-Emissionen, Umweltverschmutzung und Emissionshandel. Und zwar aus folgendem Grund:
+TGT:	Unterstützen Sie die Beschränkung von CO2-Emissionen, Umweltverschmutzung und Emissionshandel. Und zwar aus folgendem Grund:
+
+SRC:	Here's why: as long as the United States is out of the world system, it's not a closed system.
+PRED:	Solange die USA außen vor bleiben, ist das Welt gar keine Welt gar keine Welt gar keine Welt gar keine Welt gar das Welt gar das ganze Wand das ganze Wand das ganze Wand das ganze Wand das ganze Wand das ganze Wand das werden so als die USA außen vor.
+TGT:	Solange die USA außen vor bleiben, ist das Weltsystem kein geschlossenes System.
+
+SRC:	Once it becomes a closed system, with U.S. participation, then everybody who's on a board of directors -- how many people here serve on the board of directors of a corporation?
+PRED:	Sobald es ein geschlossenes System wird, mit Beteiligung der USA, dann wird jedes Vorstandsmitglied ... Wie viele von Ihnen sitzen im Vorstand eines Unternehmens?
+TGT:	Sobald es ein geschlossenes System wird, mit Beteiligung der USA, dann wird jedes Vorstandsmitglied ... Wie viele von Ihnen sitzen im Vorstand eines Unternehmens?
+
+SRC:	Once it's a closed system, you will have legal liability if you do not urge your CEO to get the maximum income from reducing and trading the carbon emissions The market will work to solve this problem -- if we can accomplish this.
+PRED:	In einem geschlossenen System sind Sie gesetzlich haftbar, wenn wir das schaffen. Der Markt wird, wenn wir das schaffen. Der Markt wird, wenn man einen Knopf in diesem Raumfahrzeugeholt schon, die In den Vorstandsvorsitzenden nicht drängen, wenn man muss das schaffen.
+TGT:	In einem geschlossenen System sind Sie gesetzlich haftbar, wenn Sie den Vorstandsvorsitzenden nicht drängen, maximales Einkommen aus der Reduzierung und dem Handel mit unvermeidlichen CO2-Emissionen zu erzielen. Der Markt wird dieses Problem lösen -- wenn wir das schaffen.
+
+SRC:	Help with the mass persuasion campaign that will start this spring.
+PRED:	Helfen Sie bei der groß angelegten Meinungskampagne, die im Frühling beginnt.
+TGT:	Helfen Sie bei der groß angelegten Meinungskampagne, die im Frühling beginnt.
+
+SRC:	We have to change the minds of the American people.
+PRED:	Wir müssen die Amerikaner zum Umdenken bringen.
+TGT:	Wir müssen die Amerikaner zum Umdenken bringen.
+
+SRC:	Because presently, the politicians do not have permission to do what needs to be done.
+PRED:	Denn gegenwärtig dürfen die Politiker nicht das tun, was getan werden muss. In unserem modernen Land
+TGT:	Denn gegenwärtig dürfen die Politiker nicht das tun, was getan werden muss. In unserem modernen Land
+
+SRC:	And in our modern country, the role of logic and reason no longer includes mediating between wealth and power the way it once did.
+PRED:	ist es eine große Mengen von Logik und Vernunft, zwischen Wohlstand und Vernunft, zwischen Wohlstand und Vernunft, zwischen Wohlstand und Vernunft, zwischen Wohlstand und Vernunft, zwischen Wohlstand und Vernunft, zwischen Wohlstand und Vernunft, zwischen Wohlstand und Vernunft, zwischen Wohlstand und Vernunft, zwischen Wohlstand und Vernunft in den Wald gehen.
+TGT:	ist es nicht mehr wie früher Aufgabe von Logik und Vernunft, zwischen Wohlstand und Macht zu vermitteln, wie es früher einmal war.
+
+SRC:	It's now repetition of short, hot-button, 30-second, 28-second television ads.
+PRED:	Heute brauchen wir viele kurze, brandaktuelle 28 - 30 Sekunden lange Fernsehspots.
+TGT:	Heute brauchen wir viele kurze, brandaktuelle 28 - 30 Sekunden lange Fernsehspots.
+
+SRC:	We have to buy a lot of those ads.
+PRED:	Wir müssen eine Menge solcher Spots kaufen.
+TGT:	Wir müssen eine Menge solcher Spots kaufen.
+
+SRC:	Let's re-brand global warming, as many of you have suggested.
+PRED:	Wir sollten die Erderwärmung umbenennen, wie viele von Ihnen vorgeschlagen haben.
+TGT:	Wir sollten die Erderwärmung umbenennen, wie viele von Ihnen vorgeschlagen haben.
+
+SRC:	I like "climate crisis" instead of "climate collapse," but again, those of you who are good at branding, I need your help on this.
+PRED:	Ich möchte Ihnen diese "Klimakrise" besser, die es bei "Klimakatastrophe". Aber noch einmal, ich brauche Hilfe von Leuten, ich brauche Hilfe, ich brauche Hilfe, ich brauche Hilfe, ich brauche Hilfe von Leuten, ich brauche Hilfe, ich brauche Hilfe von Leuten, ich brauche Hilfe, ich brauche Hilfe von Leuten, ich brauche Hilfe von Leuten, ich brauche Hilfe von Leuten, die sich
+TGT:	Mir gefällt "Klimakrise" besser als "Klimakatastrophe". Aber noch einmal, ich brauche Hilfe von Leuten, die sich mit Markenentwicklung auskennen.
+
+SRC:	Somebody said the test we're facing now, a scientist told me, is whether the combination of an opposable thumb and a neocortex is a viable combination.
+PRED:	Ein Wissenschaftler sagte mal zu mir, wir stünden jetzt vor der Prüfung, ob die Kombination aus einem Neocortex überhaupt lebensfähig wir sind.
+TGT:	Ein Wissenschaftler sagte mal zu mir, wir stünden jetzt vor der Prüfung, ob die Kombination aus einem opponierbaren Daumen und einem Neocortex überhaupt lebensfähig ist.
+
+SRC:	That's really true.
+PRED:	Das stimmt tatsächlich.
+TGT:	Das stimmt tatsächlich.
+
+SRC:	I said the other night, and I'll repeat now: this is not a political issue.
+PRED:	Wie ich vorgestern bereits sagte: Das ist kein politisches Thema. Noch einmal an alle Republikaner hier:
+TGT:	Wie ich vorgestern bereits sagte: Das ist kein politisches Thema. Noch einmal an alle Republikaner hier:
+
+SRC:	Again, the Republicans here -- this shouldn't be partisan.
+PRED:	Es sollte dabei nicht um Parteipolitik gehen.
+TGT:	Es sollte dabei nicht um Parteipolitik gehen.
+
+SRC:	You have more influence than some of us who are Democrats do.
+PRED:	Sie haben mehr Einfluss als einige von uns Demokraten.
+TGT:	Sie haben mehr Einfluss als einige von uns Demokraten.
+
+SRC:	This is an opportunity.
+PRED:	Dies ist eine Gelegenheit.
+TGT:	Dies ist eine Gelegenheit.
+
+SRC:	Not just this, but connected to the ideas that are here, to bring more coherence to them.
+PRED:	Nicht nur das, sondern in Verbindung mit den anderen Ideen hier können wir einen größeren Zusammenhang herstellen.
+TGT:	Nicht nur das, sondern in Verbindung mit den anderen Ideen hier können wir einen größeren Zusammenhang herstellen.
+
+SRC:	We are one.
+PRED:	Wir sind eins.
+TGT:	Wir sind eins.
+
+SRC:	Thank you very much, I appreciate it.
+PRED:	Ich danke Ihnen vielmals.
+TGT:	Ich danke Ihnen vielmals.
+
+SRC:	In terms of invention, I'd like to tell you the tale of one of my favorite projects.
+PRED:	Ich möchte Ihnen aus dem Bereich der Erfindungen die Geschichte eines meiner liebsten Projekte erzählen.
+TGT:	Ich möchte Ihnen aus dem Bereich der Erfindungen die Geschichte eines meiner liebsten Projekte erzählen.
+
+SRC:	I think it's one of the most exciting that I'm working on, but I think it's also the simplest.
+PRED:	Ich finde, es ist eins der spannendsten, an denen ich arbeite, halte es aber auch für das einfachste.
+TGT:	Ich finde, es ist eins der spannendsten, an denen ich arbeite, halte es aber auch für das einfachste.
+
+SRC:	It's a project that has the potential to make a huge impact around the world.
+PRED:	Es ist ein Projekt mit dem Potential, einen riesigen Einfluss auf der ganzen Welt zu haben.
+TGT:	Es ist ein Projekt mit dem Potential, einen riesigen Einfluss auf der ganzen Welt zu haben.
+
+SRC:	It addresses one of the biggest health issues on the planet, the number one cause of death in children under five.
+PRED:	Es befasst sich mit einem der Todesursache Nummer Eins von Kindern unter fünf Jahren, mit einem der Todesursache Nummer Eins von Kindern unter fünf Jahren, mit der Todesursache Nummer Eins von Kindern unter fünf Jahren, mit Entwürfen in den Todesursache Nummer Eins von Kindern unter fünf Jahren, mit der Todesursache Nummer Eins von Kindern unter fünf Jahren, mit der Todesursache Nummer Eins von Kindern unter fünf Jahren,
+TGT:	Es befasst sich mit einem der größten Gesundheitsprobleme auf dem Planeten, mit der Todesursache Nummer Eins von Kindern unter fünf Jahren,
+
+SRC:	Which is ...? Water-borne diseases? Diarrhea? Malnutrition?
+PRED:	die da wäre...? Durch Wasser übertragene Krankheiten? Mangelernährung?
+TGT:	die da wäre...? Durch Wasser übertragene Krankheiten? Diarrhoe? Mangelernährung?
+
+SRC:	No. It's breathing the smoke from indoor cooking fires -- acute respiratory infections caused by this. Can you believe that?
+PRED:	Nein. Können Sie das glauben?
+TGT:	Nein. Es ist das Einatmen von Rauch von Kochfeuern in geschlossenen Räumen - akute Atemwegsinfektionen, die dadurch verursacht werden. Können Sie das glauben?
+
+SRC:	I find this shocking and somewhat appalling.
+PRED:	Ich finde das schockierend und ziemlich entsetzlich.
+TGT:	Ich finde das schockierend und ziemlich entsetzlich.
+
+SRC:	Can't we make cleaner burning cooking fuels?
+PRED:	Können wir nicht sauberer brennende Kochbrennstoffe herstellen?
+TGT:	Können wir nicht sauberer brennende Kochbrennstoffe herstellen?
+
+SRC:	Can't we make better stoves?
+PRED:	Können wir nicht bessere Herde machen?
+TGT:	Können wir nicht bessere Herde machen?
+
+SRC:	How is it that this can lead to over two million deaths every year?
+PRED:	Wie kann es sein, dass dies jedes Jahr zu über zwei MIllionen Todesfällen führt?
+TGT:	Wie kann es sein, dass dies jedes Jahr zu über zwei MIllionen Todesfällen führt?
+
+SRC:	I know Bill Joy was talking to you about the wonders of carbon nanotubes, so I'm going to talk to you about the wonders of carbon macro-tubes, which is charcoal.
+PRED:	Ich weiß, dass Bill Joy einen Vortrag über Kohle über die fantastischen Kohlenstoffnanoröhren gehalten hat. Also werde ich über Kohle sogar noch nie eine schemat der USA gedruckt worden, also über Kohle.
+TGT:	Ich weiß, dass Bill Joy einen Vortrag über die fantastischen Kohlenstoffnanoröhren gehalten hat. Also werde ich über die Wunder von Kohlenstoffmakroröhren reden, also über Kohle.
+
+SRC:	So this is a picture of rural Haiti. Haiti is now 98 percent deforested.
+PRED:	Dies ist ein Bild die Landschaft Haitis.
+TGT:	Dies ist ein Bild die Landschaft Haitis. Haiti ist jetzt zu 98 Prozent entwaldet.
+
+SRC:	You'll see scenes like this all over the island.
+PRED:	Bilder wie dieses sieht man überall auf der Insel.
+TGT:	Bilder wie dieses sieht man überall auf der Insel.
+
+SRC:	It leads to all sorts of environmental problems and problems that affect people throughout the nation.
+PRED:	Das führt in der ganzen Nation zu allerlei Umweltproblemen und Problemen, die Menschen betreffen.
+TGT:	Das führt in der ganzen Nation zu allerlei Umweltproblemen und Problemen, die Menschen betreffen.
+
+SRC:	A couple years ago there was severe flooding that led to thousands of deaths -- that's directly attributable to the fact that there are no trees on the hills to stabilize the soil.
+PRED:	Vor ein paar Jahren gab es sehr starke Überschwemmungen welche zum Tod von Tausenden führten. Dies kann man direkt darauf zurückführen dass es auf den Hügeln keine Bäume mehr gibt, um den Hügeln keine Bäume mehr gibt, um den genetischen Codes entschlüsselt sind Untersuchungen um den genetischen Codes entschlüsselt sind Untersuchungen um den genetischen Codes entschlüsselt sind Untersuchungen um den genetischen Codes entschlüsselt sind Untersuchungen um den genetischen Codes
+TGT:	Vor ein paar Jahren gab es sehr starke Überschwemmungen welche zum Tod von Tausenden führten. Dies kann man direkt darauf zurückführen dass es auf den Hügeln keine Bäume mehr gibt, um den Boden zu stabilisieren.
+
+SRC:	So the rains come -- they go down the rivers and the flooding happens.
+PRED:	Wenn die Flüsse und dann treten die Überschwemmungen auf.
+TGT:	Und dann kommt der Regen, füllt die Flüsse und dann treten die Überschwemmungen auf.
+
+SRC:	Now one of the reasons why there are so few trees is this: people need to cook, and they harvest wood and they make charcoal in order to do it.
+PRED:	Nun, einer der Gründe, warum es so wenige Bäume gibt, das sie sich Holz, das sie sich Holz, das sie sich Holz Kohle machen.
+TGT:	Nun, einer der Gründe, warum es so wenige Bäume gibt, ist dieser: Menschen müssen kochen, und dafür holen sie sich Holz, das sie dafür zu Kohle machen.
+
+SRC:	It's not that people are ignorant to the environmental damage.
+PRED:	Die Menschen sind sich der Umweltschäden durchaus bewusst.
+TGT:	Die Menschen sind sich der Umweltschäden durchaus bewusst.
+
+SRC:	They know perfectly well, but they have no other choice.
+PRED:	Sie kennen sie ganz genau, haben aber keine andere Wahl.
+TGT:	Sie kennen sie ganz genau, haben aber keine andere Wahl.
+
+SRC:	Fossil fuels are not available, and solar energy doesn't cook the way that they like their food prepared.
+PRED:	Fossile Brennstoffe stehen nicht, die gewünschte Art zuzubereiten.
+TGT:	Fossile Brennstoffe stehen nicht zur Verfügung, und Solarenergie hilft ihnen nicht, das Essen auf die gewünschte Art zuzubereiten.
+
+SRC:	And so this is what they do.
+PRED:	Also machen sie das hier.
+TGT:	Also machen sie das hier.
+
+SRC:	You'll find families like this who go out into the forest to find a tree, cut it down and make charcoal out of it.
+PRED:	Bilder wie die in eine Millionzuhalten, die in die in die in die in die in die in die in die in die in die in die in die in die in die Luft gehen, und daraus Briketts zu fällen und daraus Kohle.
+TGT:	Und dann trifft man Familien wie diese, die in den Wald gehen, um einen Baum zu finden, ihn zu fällen und daraus Kohle zu machen.
+
+SRC:	So not surprisingly, there's a lot of effort that's been done to look at alternative cooking fuels.
+PRED:	Also gab es, wenig überraschend, wenig überraschend, wenig überraschend, wenig überraschend, wenig überraschend, wenig überraschend, wenig überraschend, wenig überraschend, wenig überraschend, wenig überraschend.
+TGT:	Also gab es, wenig überraschend, viele Bemühungen, sich alternative Kochbrennstoffe anzuschauen.
+
+SRC:	About four years ago, I took a team of students down to Haiti and we worked with Peace Corps volunteers there.
+PRED:	Vor circa vier Jahren habe ich ein Team von Studenten mit nach Haiti genommen, und wir haben mit Freiwilligen der dortigen Friedenstruppen zusammengearbeitet.
+TGT:	Vor circa vier Jahren habe ich ein Team von Studenten mit nach Haiti genommen, und wir haben mit Freiwilligen der dortigen Friedenstruppen zusammengearbeitet.
+
+SRC:	This is one such volunteer and this is a device that he had built in the village where he worked.
+PRED:	Dies ist ein solcher Freiwilliger, und das er in dem Dorf, das er in dem Dorf, das er in dem Dorf, das er in dem Dorf, das er in dem Dorf, das er in dem Dorf, das er in dem Dorf, und das er in dem Dorf, das er in dem Dorf, das er in dem Dorf, das er in dem Dorf, das er in dem
+TGT:	Dies ist ein solcher Freiwilliger, und das ist ein Gerät, das er in dem Dorf, wo er arbeitete, gebaut hatte.
+
+SRC:	And the idea was that you could take waste paper; you could compress it and make briquettes that could be used for fuel.
+PRED:	Und die Idee war, Papierabfälle zu komprimieren, die man als Brennstoff verwenden konnte.
+TGT:	Und die Idee war, Papierabfälle zu nehmen, sie zu komprimieren, und daraus Briketts zu machen, die man als Brennstoff verwenden konnte.
+
+SRC:	But this device was very slow.
+PRED:	Aber dieses Gerät war sehr langsam.
+TGT:	Aber dieses Gerät war sehr langsam.
+
+SRC:	So our engineering students went to work on it and with some very simple changes, they were able to triple the throughput of this device.
+PRED:	Also haben unsere Ingenieursstudenten daran gearbeitet, den Durchsatz des Gerätspasst mit ein paar sehr einfachen Veränderungen waren sie in der Lage, den Durchsatz des Geräts werden kann.
+TGT:	Also haben unsere Ingenieursstudenten daran gearbeitet, und mit ein paar sehr einfachen Veränderungen waren sie in der Lage, den Durchsatz des Geräts zu verdreifachen.
+
+SRC:	So you could imagine they were very excited about it.
+PRED:	Sie ahnen wohl, dass sie sehr begeistert waren.
+TGT:	Sie ahnen wohl, dass sie sehr begeistert waren.
+
+SRC:	And they took the briquettes back to MIT so that they could test them.
+PRED:	Und sie nahmen die Briketts mit zurück ans MIT, um sie testen zu können.
+TGT:	Und sie nahmen die Briketts mit zurück ans MIT, um sie testen zu können.
+
+SRC:	And one of the things that they found was they didn't burn.
+PRED:	Und eine der Sachen, die sie herausfanden, dass eine Sachen, dass eine Sachen,
+TGT:	Und eine der Sachen, die sie herausfanden, war, dass sie nicht brannten.
+
+SRC:	So it was a little discouraging to the students.
+PRED:	Das war also ein wenig entmutigend für die Studenten.
+TGT:	Das war also ein wenig entmutigend für die Studenten.
+
+SRC:	And in fact, if you look closely, right here you can see it says, "US Peace Corps."
+PRED:	Wenn Sie genau hinschauen, genau da, genau da, genau da, ob man "U. Peace Corps" geschrieben. Peace Corps" geschrieben.
+TGT:	Und wenn Sie genau hinschauen, genau da, sieht man "U.S. Peace Corps" geschrieben.
+
+SRC:	As it turns out, there actually wasn't any waste paper in this village.
+PRED:	Wie sich nämlich herausstellt, gab es keinen Papierabfall in diesem Dorf.
+TGT:	Wie sich nämlich herausstellt, gab es keinen Papierabfall in diesem Dorf.
+
+SRC:	And while it was a good use of government paperwork for this volunteer to bring it back with him to his village, it was 800 kilometers away.
+PRED:	Und während es eine gute Verwendung von Regierungspapieren sein mag, wenn dieser Freiwillige sie mit in sein Heimatdorf nimmt, wenn dieser Freiwillige sie mit in sein Heimatdorf nimmt, war es doch 800 km weit entfernt.
+TGT:	Und während es eine gute Verwendung von Regierungspapieren sein mag, wenn dieser Freiwillige sie mit in sein Heimatdorf nimmt, war es doch 800 km weit entfernt.
+
+SRC:	And so we thought perhaps there might be a better way to come up with an alternative cooking fuel.
+PRED:	Also dachten wir uns, sich einen alternativen Kochbrennstoff einfallen zu lassen.
+TGT:	Also dachten wir uns, dass es vielleicht einen besseren Weg gibt, sich einen alternativen Kochbrennstoff einfallen zu lassen.
+
+SRC:	What we wanted to do is we wanted to make a fuel that used something that was readily available on the local level.
+PRED:	Was wir machen wollten war, einen Brennstoff herzustellen, der etwas verwendet, was es auf lokaler Ebene zur Genüge gibt.
+TGT:	Was wir machen wollten war, einen Brennstoff herzustellen, der etwas verwendet, was es auf lokaler Ebene zur Genüge gibt.
+
+SRC:	You see these all over Haiti as well. They're small-scale sugar mills.
+PRED:	Das ist ganz besonders sich heraus, dass man überall auf der Zuckerverarbeitung.
+TGT:	Diese hier sieht man überall auf Haiti. Es sind Kleinbetriebe für Zuckerverarbeitung.
+
+SRC:	And the waste product from them after you extract the juice from the sugarcane is called "bagasse."
+PRED:	Und deren Abfallprodukt, nachdem man den Saft aus dem Zuckerrohr extrahiert hat, heißt Bagasse.
+TGT:	Und deren Abfallprodukt, welches über bleibt, nachdem man den Saft aus dem Zuckerrohr extrahiert hat, heißt Bagasse.
+
+SRC:	It has no other use.
+PRED:	Es hat keine Verwendung.
+TGT:	Es hat keine Verwendung. Es hat keinen Nährwert.
+
+SRC:	It has no nutritional value, so they don't feed it to the animals.
+PRED:	Also wird es nicht an die Tiere verfüttert.
+TGT:	Also wird es nicht an die Tiere verfüttert.
+
+SRC:	It just sits in a pile near the sugar mill until eventually they burn it.
+PRED:	Es liegt einfach auf einem Haufen neben der Zuckermühle, bis sie es letztendlich verbrennen.
+TGT:	Es liegt einfach auf einem Haufen neben der Zuckermühle, bis sie es letztendlich verbrennen.
+
+SRC:	What we wanted to do was we wanted to find a way to harness this waste resource and turn it into a fuel that would be something that people could easily cook with, something like charcoal.
+PRED:	Was wir machen wollten war, einen Weg zu finden, diese Abfallressource zu verwandeln.
+TGT:	Was wir machen wollten war, einen Weg zu finden, diese Abfallressource zu nutzen und sie in einen Brennstoff zu verwandeln, mit dem die Leute einfach kochen können, so etwas wie Kohle.
+
+SRC:	So over the next couple of years, students and I worked to develop a process.
+PRED:	Also haben über den nächsten paar Jahre Studenten und einen Prozess zu entwickeln.
+TGT:	Also haben über die nächsten paar Jahre Studenten und ich daran gearbeitet, einen Prozess zu entwickeln.
+
+SRC:	So you start with the bagasse, and then you take a very simple kiln that you can make out of a waste fifty five-gallon oil drum.
+PRED:	Man fängt also mit der Bagasse an und dann nimmt Sie die Kohle. Man braucht Sie die man einen sehr einfachen Ofen. Den kann man einen Ko. Den kann man einen Burger
+TGT:	Man fängt also mit der Bagasse an und dann nimmt man einen sehr einfachen Ofen. Den kann man ganz einfach aus einem alten 200-Liter-Ölfass herstellen.
+
+SRC:	After some time, after setting it on fire, you seal it to restrict the oxygen that goes into the kiln, and then you end up with this carbonized material here.
+PRED:	Den Ofen zündet man an und versiegelt ihn nach einer Weile,1⁄4 damit die Sauerstoffzufuhr begrenzt wird. Und am Ende bekommt man verkohltes Material wie das hier. Und am Ende bekommt man verkohltes Material wie das hier. Und am Ende bekommt man verkohltes Material wie das hier. Und am Ende bekommt man verkohltes Material wie das hier.
+TGT:	Den Ofen zündet man an und versiegelt ihn nach einer Weile,1⁄4 damit die Sauerstoffzufuhr begrenzt wird. Und am Ende bekommt man verkohltes Material wie das hier.
+
+SRC:	However, you can't burn this.
+PRED:	Aber das kann man nicht verbrennen.
+TGT:	Aber das kann man nicht verbrennen. Es ist zu fein.
+
+SRC:	It's too fine and it burns too quickly to be useful for cooking.
+PRED:	Und es brennt zu schnell, als dass es beim Kochen nützlich wäre.
+TGT:	Und es brennt zu schnell, als dass es beim Kochen nützlich wäre.
+
+SRC:	So we had to try to find a way to form it into useful briquettes.
+PRED:	Wir mussten also einen Weg finden, es in Brikettform zu bringen.
+TGT:	Wir mussten also einen Weg finden, es in Brikettform zu bringen.
+
+SRC:	And conveniently, one of my students was from Ghana, and he remembered a dish his mom used to make for him called "kokonte," which is a very sticky porridge made out of the cassava root.
+PRED:	Und der Unterschied, und ist ein Gericht erinnerte, das seine Sekrank hatte. Es heißt Kokonte und ist ein Gericht erinnerte, das seine Sekrank hatte sich an der Kassava-Wurzel. Die Quietschgeräu. Es heißt Kokonte und ist ein Gericht erinnerte, das seine Sekrank hatte sich an einem der Kassava-Wurzel, das seine Sekrank.
+TGT:	Und da passte es gerade, dass einer meiner Schüler aus Ghana war, und sich an ein Gericht erinnerte, das seine Mutter immer für ihn gekocht hatte. Es heißt Kokonte und ist ein sehr klebriger Brei aus der Kassava-Wurzel.
+
+SRC:	And so what we did was we looked, and we found that cassava is indeed grown in Haiti, under the name of "manioc."
+PRED:	Und dann schauten wir uns ein bisschen um und fanden heraus, dass die Kassava-Wurzel auch auf Haiti wächst und dort Maniok heißt.
+TGT:	Und dann schauten wir uns ein bisschen um und fanden heraus, dass die Kassava-Wurzel auch auf Haiti wächst und dort Maniok heißt.
+
+SRC:	In fact, it's grown all over the world -- yucca, tapioca, manioc, cassava, it's all the same thing -- a very starchy root vegetable.
+PRED:	Im Prinzip wächst sie nämlich überall auf der Welt -- Yucca, Tapioka, Kassava - das ist alles dasselbe -- ein sehr stärkehaltiges Wurzelgemüse.
+TGT:	Im Prinzip wächst sie nämlich überall auf der Welt -- Yucca, Tapioka, Maniok, Kassava - das ist alles dasselbe -- ein sehr stärkehaltiges Wurzelgemüse.
+
+SRC:	And you can make a very thick, sticky porridge out of it, which you can use to bind together the charcoal briquettes.
+PRED:	Und daraus kann man einen sehr dicken, klebrigen Brei machen, mit dem man einen sehr dicken kann.
+TGT:	Und daraus kann man einen sehr dicken, klebrigen Brei machen, mit dem man die Kohle zu Briketts formen kann.
+
+SRC:	So we did this. We went down to Haiti.
+PRED:	Das haben wir dann gemacht. Wir gingen nach Haiti.
+TGT:	Das haben wir dann gemacht. Wir gingen nach Haiti.
+
+SRC:	These are the graduates of the first Ecole de Charbon, or Charcoal Institute. And these -- That's right. So I'm actually an instructor at MIT as well as CIT.
+PRED:	Das sind die Abschlussschüler der ersten Ecole de Charbon, dem Institut für Kohle. Ich bilde am MIT, dem Institut für Kohle aus. Ich bilde am MIT und am MIT und am MIT und am MIT und am MIT und am MIT und am MIT, dem Institut für Kohle aus dem Institut für Kohle aus. Ich bilde am MIT und am MIT oder organ, dem Institut für Kohle aus.
+TGT:	Das sind die Abschlussschüler der ersten Ecole de Charbon, dem Institut für Kohle. Und diese -- -- Ja, genau. Ich bilde am MIT und am Institut für Kohle aus.
+
+SRC:	And these are the briquettes that we made.
+PRED:	Und dies hier sind unsere hausgemachten Briketts.
+TGT:	Und dies hier sind unsere hausgemachten Briketts.
+
+SRC:	Now I'm going to take you to a different continent. This is India and this is the most commonly used cooking fuel in India. It's cow dung.
+PRED:	Jetzt nehme ich Sie auf einen anderen Kontinent mit. Das ist der verbreitetste Kochbrennstoff in Indien: Kuhdung.
+TGT:	Jetzt nehme ich Sie auf einen anderen Kontinent mit. Das ist Indien. Und das hier ist der verbreitetste Kochbrennstoff in Indien: Kuhdung.
+
+SRC:	And more than in Haiti, this produces really smoky fires, and this is where you see the health impacts of cooking with cow dung and biomass as a fuel.
+PRED:	Und der produziert noch mehr Qualm als der Brennstoff in Haiti. Da sieht man auch die gesundheitlichen Auswirkungen, wenn man auch die gesundheitlichen Auswirkungen, wenn man auch die gesundheitlichen Auswirkungen, wenn man einen Brennstoff in Haiti kaufen kann, wenn man einen Brennstoff in Haiti ist, wenn man einen Brennstoff in Haiti kaufen kann, wenn man einen Brennstoff in Haiti kaufen kann, wenn man einen Brennstoff in Haiti
+TGT:	Und der produziert noch mehr Qualm als der Brennstoff in Haiti. Da sieht man auch die gesundheitlichen Auswirkungen, wenn man Kuhdung und Biomasse als Brennstoff verwendet.
+
+SRC:	Kids and women are especially affected by it, because they're the ones who are around the cooking fires.
+PRED:	Kinder und Frauen sind davon ganz besonders betroffen. Sie sind nämlich diejenigen, die sich um diese Kochfeuer aufhalten.
+TGT:	Kinder und Frauen sind davon ganz besonders betroffen. Sie sind nämlich diejenigen, die sich um diese Kochfeuer aufhalten.
+
+SRC:	So we wanted to see if we could introduce this charcoal-making technology there.
+PRED:	Also wollten wir, ob wir die Technologie
+TGT:	Also wollten wir ausprobieren, ob wir die Technologie
+
+SRC:	Well, unfortunately, they didn't have sugarcane and they didn't have cassava, but that didn't stop us.
+PRED:	zum Herstellen von Kohle nicht auch hier einführen konnten. müssen, aber das hielt hier den auch nicht auch hier den auch hier den auch hier den auch nicht auch hier den auch hier den auch hier den auch hier den auch nicht auch hier den ganzen Welt, aber nicht auch hier den ganzen Welt, aber nicht auch hier den ganzen Haufen hatten sie auch hier den auch hier den auch hier den auch hier
+TGT:	zum Herstellen von Kohle nicht auch hier einführen konnten. Aber leider hatten sie kein Zuckerrohr und Maniok hatten sie auch nicht, aber das hielt uns nicht auf.
+
+SRC:	What we did was we found what were the locally available sources of biomass.
+PRED:	Wir suchten daraufhin nach regional verfügbaren Biomassequellen.
+TGT:	Wir suchten daraufhin nach regional verfügbaren Biomassequellen.
+
+SRC:	And there was wheat straw and there was rice straw in this area.
+PRED:	Und es gab Weizenstroh und Reisstroh in dieser Gegend.
+TGT:	Und es gab Weizenstroh und Reisstroh in dieser Gegend.
+
+SRC:	And what we could use as a binder was actually small amounts of cow manure, And we did side-by-side tests, and here you can see the charcoal briquettes and here the cow dung.
+PRED:	Und als Bindemittel konnten wir kleine Mengen von Kuhdung verwenden, den sie ja sonst als Brennstoff verwandten. Wenn man Kuhdung verwenden, und hier ist der Kuhdung verwenden, den sie nach den sie verwenden, den sie verwenden, den sie verwenden, den sie ja sonst als Brennstoff verwandten.
+TGT:	Und als Bindemittel konnten wir kleine Mengen von Kuhdung verwenden, den sie ja sonst als Brennstoff verwandten. Und dann haben wir Vergleichstests gemacht. Hier sehen Sie die Kohlebriketts, und hier ist der Kuhdung.
+
+SRC:	And you can see that it's a lot cleaner burning of a cooking fuel.
+PRED:	Und Sie können sehen, dass der Kochbrennstoff viel sauberer verbrennt.
+TGT:	Und Sie können sehen, dass der Kochbrennstoff viel sauberer verbrennt.
+
+SRC:	And in fact, it heats the water a lot more quickly.
+PRED:	Und er erhitzt sogar das Wasser viel schneller.
+TGT:	Und er erhitzt sogar das Wasser viel schneller.
+
+SRC:	And so we were very happy, thus far.
+PRED:	Also waren wir ziemlich glücklich, bis dahin.
+TGT:	Also waren wir ziemlich glücklich, bis dahin.
+
+SRC:	But one of the things that we found was when we did side-by-side comparisons with wood charcoal, it didn't burn as long.
+PRED:	Aber eine Sache, die wir bei Vergleichstests mit Holzkohle herausfanden,
+TGT:	Aber eine Sache, die wir bei Vergleichstests mit Holzkohle herausfanden,
+
+SRC:	And the briquettes crumbled a little bit and we lost energy as they fell apart as they were cooking.
+PRED:	war die verkürzte Brennzeit. Und die Briketts waren recht bröckelig. Und die Briketts waren recht bröckelig.
+TGT:	war die verkürzte Brennzeit. Und die Briketts waren recht bröckelig und wir verloren Energie, während sie beim Verbrennen zerfielen.
+
